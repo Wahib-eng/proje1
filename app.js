@@ -80,7 +80,7 @@ var moveEnemies = setInterval(() => {
         window.getComputedStyle(enemy).getPropertyValue("top")
       );
 
-      if (enemytop >= 450) {
+      if (enemytop >= 420) {
         alert("Game Over");
         
         clearInterval(moveEnemies);
