@@ -1,3 +1,4 @@
+alert("left and right arrows for mving ,<br> up and space for shooting <br> have a nice game");
 var aircraft = document.getElementById("aircraft");
 var battle = document.getElementById("battle");
 
