@@ -1,6 +1,8 @@
+
 # Aircraft JavaScript Game
 - 2d html javascript and css simple game. 
 
+![Uploading jscover readme.png…]()
 
 # Getting started 
 
