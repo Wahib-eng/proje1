@@ -2,8 +2,7 @@
 # Aircraft JavaScript Game
 - 2d html javascript and css simple game. 
 
-
-![alt text](http://url/to/jscover readme.png.png)
+![plot](D:\BTU wahib\2. yıl\2. dönem\Web Tabanli Programlama\web projeleri\jscover readme.png)
 
 # Getting started 
 
