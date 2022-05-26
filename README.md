@@ -17,12 +17,14 @@
 
 
 # how to play the game 
-- The game starts automatically when the website opened. The goal of the game is to destroy all enemies'
-  aircraft and score as much as you can. 
+- The game starts automatically when the website opened. 
+- The goal of the game is to destroy all enemies 'aircrafts'  and score as much as you can. 
+- Play the game with arrows left, right for moving the aircraft and space or up for shooting. 
+- The game will end if the enemies reach the main aircraft you fight with. 
   
 # Updates 
-- We are adding more updates in the near future such as effects for the enemy's aircraft after it is destroyed.
-- Audio files will be added for the aircraft when it shoots and when enemys' aircraft have are shooten.
+- We are adding more updates in the near future such as effects to the enemy's aircraft after it is destroyed.
+- Audio files will be added for the aircraft when it shoots and when enemys' aircrafts are shooten.
 - The control of the game is only from PC browsers such as Google Chrome and Microsoft browser.  
   
 # Authors 
