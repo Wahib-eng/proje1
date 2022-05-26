@@ -2,7 +2,8 @@
 # Aircraft JavaScript Game
 - 2d html javascript and css simple game. 
 
-![Aircrafts War](D:\BTU wahib\2. yıl\2. dönem\Web Tabanli Programlama\web projeleri)
+![Aircrafts War](D:\BTU wahib\2. yıl\2. dönem\Web Tabanli Programlama\web projeleri/jscover readme.png)
+![alt text](http://url/to/img.png)
 
 # Getting started 
 
