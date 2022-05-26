@@ -11,7 +11,7 @@
 
 # Software used in this project 
 
-- Visual stdio code link : https://code.visualstudio.com/download 
+- Visual stdio code link : [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 - Google Chrome Browser 
 - GitHub Hosting attribute 
 
@@ -32,9 +32,9 @@ This project is coded by @Wahib Moqbel
 
 # References 
  
- - https://code.visualstudio.com/download  
- - https://chromeenterprise.google/browser/download/
- - https://www.freepik.com/
+ - [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+ - [https://chromeenterprise.google/browser/download/](https://chromeenterprise.google/browser/download/)
+ - [https://www.freepik.com/](https://www.freepik.com/)
  
  
 
