@@ -6,7 +6,7 @@
 
 - The game is coded using html , css and javaScript. It is an easy 2d game that has 4 main elements which are aircraft, enemy, bullets and    battle. It also has a counter in the left that counts how many aliens have been destroyed by the player.
 - The project could be downloaded as a zip file and uploaded as a free source code. All grafics that I have used in the project is added.
-- Go and try playing the game from here : [[https://wahib-eng.github.io/proje1/aircraftJsGame](https://wahib-eng.github.io/project1.github.io/aircraftJsGame)](https://wahib-eng.github.io/project1.github.io/)
+- Go and try playing the game from here : https://wahib-eng.github.io/proje1/aircraftJsGame
 
 
 # Software used in this project 
