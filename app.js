@@ -5,11 +5,11 @@ var battle = document.getElementById("battle");
 window.addEventListener("keydown", (e) => {
   var left = parseInt(window.getComputedStyle(aircraft).getPropertyValue("left"));
   if (e.key == "ArrowLeft" && left > 0) {
-    aircraft.style.left = left - 10 + "px";
+    aircraft.style.left = left - 15 + "px";
   }
   
   else if (e.key == "ArrowRight" && left <= 460) {
-    aircraft.style.left = left + 10 + "px";
+    aircraft.style.left = left + 15 + "px";
   }
 
   if (e.key == "ArrowUp" || e.keyCode == 32) {
@@ -51,7 +51,7 @@ window.addEventListener("keydown", (e) => {
         clearInterval(movebullet);
       }
 
-      bullet.style.left = left + "px"; //bullet should always be placed at the top of my jet..!
+      bullet.style.left = left + "px"; 
       bullet.style.bottom = bulletbottom + 3 + "px";
     });
   }
